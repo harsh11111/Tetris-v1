@@ -4,6 +4,8 @@ Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal 
 
 Tetris
 
+![Tetris Game](https://github.com/harsh11111/Tetris-v1/assets/31356115/feafdc89-2737-4969-8d13-2e696083edb1)
+
 Brief
 The game should stop if a Tetrimino fills the highest row of the game board
 The player should be able to rotate each Tetrimino about its own axis
