@@ -16,4 +16,5 @@ Use Javascript for DOM manipulation
 Deploy your game online, using Github Pages, where the rest of the world can access it
 Use semantic markup for HTML and CSS (adhere to best practices)
 
+Special Contribution:
 Ania, Thank you for your help during my project.
